@@ -1,1 +1,6 @@
-Hello
+v1.3.9:
++ Hỗ trợ lưu tạm thời danh sách acc
+sau khi ấn ClearAll tránh mất acc
++ Cải thiện tìm phòng cho nhiều
+acc khi ấn StartAll
++ Chỉnh sửa 1 số thứ...
